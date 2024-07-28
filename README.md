@@ -3,7 +3,7 @@
 ## This is the driver script used to run the simulations and generate plots and animations.
 
 The NRPy+ source code can be found [here](https://nrpyplus.net)
-
+Initial data files can be found [here](https://github.com/Lindstrom-Kyle/Thesis/tree/main/Initial_Data)
 
 ```python
 # Import the core NRPy+ modules
