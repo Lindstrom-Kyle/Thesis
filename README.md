@@ -4,6 +4,7 @@
 
 #### The NRPy+ source code can be found [here](https://nrpyplus.net)
 #### Initial data files can be found [here](https://github.com/Lindstrom-Kyle/Thesis/tree/main/Initial_Data)
+#### Animations can be found [here](https://github.com/Lindstrom-Kyle/Thesis/tree/main/Animations)
 
 ```python
 # Import the core NRPy+ modules
